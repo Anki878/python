@@ -1,0 +1,4 @@
+#using sort function&'-1'index
+lis=[12,34,9,5,77,56]
+lis.sort()
+print("The largest number present in the list is",lis[-1])
